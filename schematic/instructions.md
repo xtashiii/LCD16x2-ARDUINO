@@ -66,3 +66,8 @@ http://www.arduino.cc/en/TutorialLiquidCrystal
 
 
 <img src="result.png" />
+
+
+### Or like this, if you are a mental like me:
+
+<img src="mental.png" />
